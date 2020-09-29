@@ -2,6 +2,6 @@
 
 ## Running Node server
 
-###``` cd bin```
+### ``` cd bin```
 ### ``` node www ```
  
